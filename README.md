@@ -2,6 +2,7 @@ Ejercicio realizado en Python para resolver un puzzle matemático solicitado en 
 
 Logré llegar a la respuesta con un código que logré simplificarlo tras estudiar el comprotamiento de la operación módulo con las distintas operaciones matemáticas utilizadas para resolver el problema. De esta manera, un código que parecía imposible resolver con los recursos de una notebook por la cantidad de operaciones que implicaría, con estas reglas matemáticas encontradas, pude realizar un código que resuelve el problema en un par de segundos y podría resolver cualquier otro número entero que se le agregara sin ningún inconveniente.
 
+Actualizaron el desafío ahora el mismo es módulo 2021 y el número buscado es el 67489454811002199
 
 ¡Desafío para desarrolladores!
 
